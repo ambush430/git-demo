@@ -1,12 +1,3 @@
 # git-demo
 
-sdf
-
-ffsdf
-
-dfs
-
-
-fdfgdfffffffffffffffffffffffffffffffffffffffffffffffff
-
-sdfds
+nothing to read
